@@ -1,6 +1,6 @@
 # 🏡 House Price Prediction Project
 
-This project focuses on analyzing and predicting house prices using multiple machine learning techniques. It involves regression models, classification algorithms, dimensionality reduction, and evaluation strategies to determine the most effective approach for house price prediction.
+This project focuses on analyzing and predicting house prices using multiple machine learning techniques. It involves regression models, dimensionality reduction, and evaluation strategies to determine the most effective approach for house price prediction.
 
 ## 📁 Project Structure
 
@@ -12,17 +12,11 @@ This project focuses on analyzing and predicting house prices using multiple mac
 - ✅ Simple Linear Regression  
 - ✅ Multiple Linear Regression  
 - ✅ Polynomial Regression  
-- ✅ K-Nearest Neighbors (KNN) Classification  
-- ✅ Principal Component Analysis (PCA)  
-- ✅ Cross-Validation (K-Fold)  
-- ✅ Data Visualization (Heatmaps, Pairplots, etc.)
 
 ## 🧠 Objectives
 
 - Understand how different housing features impact the final price.
-- Compare the performance of linear, polynomial, and KNN models.
-- Use PCA for dimensionality reduction to improve performance.
-- Apply K-fold cross-validation for robust evaluation.
+- Compare the performance of linear, polynomial
 - Visualize and interpret data insights.
 
 ## 📊 Dataset
